@@ -1,5 +1,5 @@
 {
-    "button|block": "感應器",
+    "button|block": "按鈕",
     "button.pushType.down|block": "按下",
     "button.pushType.up|block": "放開",
     "button.onBtnChanged|block": "當按鈕腳位| %btnPin | 被 | %dir"
