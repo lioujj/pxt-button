@@ -1,4 +1,4 @@
-//% weight=100 color=#7deb34 icon="\uf0ad" block="Button"
+//% weight=100 color=#1d8045 icon="\uf0ad" block="Button"
 namespace button {
     export enum pushType {
         //% block="pressed"
