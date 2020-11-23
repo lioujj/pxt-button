@@ -1,19 +1,15 @@
 {
-    "name": "pxt-button",
-    "description": "",
+    "name": "button",
+    "version": "0.0.1",
+    "description": "Button block",
+    "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
+        "README.md",
         "main.ts",
-        "README.md"
+        "_locales/zh-tw/button-strings.json"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
-    "supportedTargets": [
-        "microbit"
-    ],
-    "preferredEditor": "tsprj"
+    "public": true
 }
